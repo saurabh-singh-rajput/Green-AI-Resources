@@ -1,4 +1,4 @@
-# Awesome Green AI Resources [![Awesome][]](https://awesome.re)
+# Green AI Resources 
 
 A curated list of research papers, tools, metrics and best practices for energy-efficient and environmentally sustainable artificial intelligence.
 
