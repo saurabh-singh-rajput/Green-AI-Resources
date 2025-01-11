@@ -253,4 +253,4 @@ Please feel free to [open an issue](https://github.com/saurabh-singh-rajput/Gree
 4. Check for duplicates
 
 ---
-*This list is maintained by [Your Name/Organization]. Last updated: [Date]*
+*This list is maintained by : Saurabhsingh Rajput.*
