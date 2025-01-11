@@ -175,9 +175,16 @@ Green AI focuses on developing and deploying artificial intelligence systems tha
 ## Educational Resources
 
 ### Courses
-| Course Name | Provider | Level | Duration | Link |
-|-------------|----------|-------|----------|------|
-| Course Title | Institution | Level | Length | [Link](url) |
+| Name | Date | Provider | Link |
+|------|------|----------|-------------|
+| Sustainable Software Engineering 🌱 | 2022-present | TUDelft | [Link](https://luiscruz.github.io/course_sustainableSE/2024/) |
+| Green Software Development 🌱 | 2024-present | UTwente | [Link](https://canvas.utwente.nl/courses/15350) |
+
+### Books
+| Book Name | Authors | Level |
+|-------------|----------|-------|
+| Green in Software Engineering | Coral Calero, Mario Piattini | [Link](https://link.springer.com/book/10.1007/978-3-319-08581-4) |
+| Building Green Software | Anne Currie, Sarah Hsu, Sara Bergman | [Link](https://www.oreilly.com/library/view/building-green-software/9781098150617/) |
 
 ### Tutorials
 | Course Name | Provider | Level | Duration | Link |
@@ -199,7 +206,7 @@ Green AI focuses on developing and deploying artificial intelligence systems tha
 ### Conferences & Workshops
 | Name | Date | Location | Focus Areas |
 |------|------|----------|-------------|
-| Event | When | Where | Topics |
+| GREENS Workshop | Yearly | Co-Located with ICSA/ICSE | Green Software Systems |
 
 ### Organizations
 | Name | Date | Location | Focus Areas |
