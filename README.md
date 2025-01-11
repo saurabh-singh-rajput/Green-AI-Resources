@@ -1,6 +1,6 @@
 # Green AI Resources 
 
-A curated list of research papers, tools, metrics and best practices for energy-efficient and environmentally sustainable artificial intelligence.
+A curated list of research papers, tools, metrics and best practices for energy-efficient and environmentally sustainable Artificial Intelligence.
 
 ## Table of Contents
 
