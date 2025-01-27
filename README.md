@@ -47,9 +47,10 @@ Green AI focuses on developing and deploying artificial intelligence systems tha
 <details>
 <summary>Click to expand</summary>
 
-| Year | Title | Venue | Citations |
+| Year | Title | Venue |
 |------|-------|-------|-----------|
-| 2024 | [Paper Title](link) | Conference | Count |
+| 2025 | [Efficient and Green Large Language Models for Software Engineering:
+Vision and the Road Ahead](https://dl.acm.org/doi/pdf/10.1145/3708525) | Conference |
 
 </details>
 
